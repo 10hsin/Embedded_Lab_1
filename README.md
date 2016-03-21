@@ -13,13 +13,13 @@ Digilent Jtag Driver
 Objectives
 ----------------------------------------------------------------------------
 1-1 Install Tools <br>
-&nbsp; &nbsp; &nbsp; Install softerwares and drivers 
+&nbsp; &nbsp; &nbsp; Install softerwares and drivers <br>
 1-2 Bare-metal:   peripherals  <br>
-&nbsp; &nbsp; &nbsp; Design PL to operate switchs, leds and buttons
+&nbsp; &nbsp; &nbsp; Design PL to operate switchs, leds and buttons<br>
 1-3 PetaLinux :   simple calculator   <br>
-&nbsp; &nbsp; &nbsp; Design a simple calculator with PetaLinux. Switches and buttons as input and leds as output
+&nbsp; &nbsp; &nbsp; Design a simple calculator with PetaLinux. Switches and buttons as input and leds as output<br>
 1-4 Bare-metal:   simple calculator   <br>
-&nbsp; &nbsp; &nbsp; Design a simple calculator with bare-metal design
+&nbsp; &nbsp; &nbsp; Design a simple calculator with bare-metal design<br>
 
 Reference
 ----------------------------------------------------------------------------
